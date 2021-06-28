@@ -14,7 +14,7 @@ HTML and CSS.
 I completed this project by following the instructions in the below
 tutorial:
 
-Source: [Structuring a page of content](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Creating_fancy_letterheaded_paper)
+Source: [Creating fancy letterheaded paper](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Creating_fancy_letterheaded_paper)
 
 
 ## Technologies Used
